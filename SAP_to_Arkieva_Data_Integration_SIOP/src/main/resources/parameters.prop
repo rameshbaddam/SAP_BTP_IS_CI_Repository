@@ -1,0 +1,7 @@
+#Tue Nov 04 06:42:08 UTC 2025
+EnableLogging=true
+SplitRecCount=30
+ArkievaInterface=/MESCLNT100/SI_Item_Out
+Arkieva_Oauth_Cred=Arkieva_Oauth_DEV_Cred
+ArkievaInterfac=
+ArkievaEndPoint=https\://data-dev-oerlikon.arkievaconnect.com/Datatransfers
